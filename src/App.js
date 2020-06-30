@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './cubie.svg';
+import logo from './hex_and_bee.svg';
 import './App.css';
 
 function App() {
