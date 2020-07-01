@@ -1,20 +1,39 @@
 .App {
   text-align: center;
+  background-color: ##c0c0c0;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  NOTborder: 1px solid black;
+  margin-bottom: 0;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    DONTanimation: App-logo-spin infinite 20s linear;
   }
 }
 
+@import url('https://fonts.googleapis.com/css?family=Corben');
+
+
+
+.title {
+    NOTborder: 1px solid black;
+    margin-top:0;
+    line-height: 1;
+    padding-top: 10px;
+    font-family: "Corben";
+    OK-font-family: "Copperplate";
+    NLT-font-weight: bold;
+    font-size: 4em;
+    color: #23212C;
+}
+
 .App-header {
-  background-color: #282c34;
+  background-color:dfdfdf;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
