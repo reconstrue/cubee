@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './cubie.svg';
+import logo from './cubee.svg';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p class='title'>Cubie</p>
+        <p class='title'>Cubee</p>
       </header>
     </div>
   );
